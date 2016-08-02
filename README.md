@@ -19,7 +19,7 @@ This repo contains an android implementation of the sudoku solver in [sudoku_DL]
 <div style="display:inline-block; margin-left: 20px;">
     <img src="/static/3.png" width="150">
 </div>
-<div class="thecap"></div>
+<div class="thecap"> Screenshots </div>
 </div></center>
 <br>
 
