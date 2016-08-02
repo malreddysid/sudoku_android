@@ -51,7 +51,7 @@ public class MainActivity extends Activity implements CNNListener {
     File sdcard = Environment.getExternalStorageDirectory();
     String modelDir = sdcard.getAbsolutePath() + "/caffe_mobile/sudoku";
     String modelProto = modelDir + "/deploy.prototxt";
-    String modelBinary = modelDir + "/sudoku_iter_10000.caffemodel";
+    String modelBinary = modelDir + "/sudoku1_iter_10000.caffemodel";
 
     static {
         System.loadLibrary("caffe");

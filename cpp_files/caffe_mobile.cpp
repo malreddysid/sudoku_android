@@ -555,11 +555,14 @@ namespace caffe {
                 int area = countNonZero(cell);
                 if(area < cell.rows * cell.cols / 24)
                 {
+                    //LOG(INFO) << "i = " << i << " j = " << j << " area = " << area << " " << cell.rows * cell.cols / 24;
                     continue;
                 }
                 
                 // Save the cell as an image to make an inference later using Caffe
+                cv::resize(cell, cell, Size(28,28));
                 cv::imwrite("/sdcard/cell.jpg", cell);
+
                 
  /*               // Get datum
                 Datum datum;
@@ -609,10 +612,13 @@ namespace caffe {
                         max = value;
                         max_i = ii;
                     }
+                    //LOG(INFO) << "i = " << ii << "prob = " << value;
                 }
+
+                //LOG(INFO) << "max = " << max << " max_i = " << max_i;
                 
                 // Condition to detemine if the cell contains a digit or not.
-                if(max > 0.95)
+                if(max > 0.90)
                     puzzle[i][j] = max_i;
             }
         }
