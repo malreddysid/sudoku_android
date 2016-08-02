@@ -11,13 +11,13 @@ This repo contains an android implementation of the sudoku solver in [sudoku_DL]
 <br>
 <center><div class="imgcap">
 <div style="display:inline-block;">
-    <img src="/static/1.png" width="200">
+    <img src="/static/1.png" width="150">
 </div>
 <div style="display:inline-block; margin-left: 20px;">
-    <img src="/static/2.png" width="200">
+    <img src="/static/2.png" width="150">
 </div>
 <div style="display:inline-block; margin-left: 20px;">
-    <img src="/static/3.png" width="200">
+    <img src="/static/3.png" width="150">
 </div>
 </div></center>
 <br>
