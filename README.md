@@ -3,7 +3,7 @@
 This repo contains an android implementation of the sudoku solver in [sudoku_DL](https://github.com/malreddysid/sudoku_DL).
 
 ## How to Setup
-* Install the app using Android Studio or using the apk found in `app/build/outputs/apk/app-debug.apk`.
+* Install the app using Android Studio or using the apk found at `app/build/outputs/apk/app-debug.apk`.
 * Run the `push.sh` file in `proto_files/`.
 
 ## Screenshots
@@ -19,6 +19,7 @@ This repo contains an android implementation of the sudoku solver in [sudoku_DL]
 <div style="display:inline-block; margin-left: 20px;">
     <img src="/static/3.png" width="150">
 </div>
+<div class="thecap"></div>
 </div></center>
 <br>
 
