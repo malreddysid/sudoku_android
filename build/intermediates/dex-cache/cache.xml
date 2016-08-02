@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/siddarth/Desktop/Projects/Workspace/sudoku_android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8dac032d78e3c8ec22362319be5eb22a18c9e5c3">
+        <dex dex="/Users/siddarth/Desktop/Projects/Workspace/sudoku_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bee5102a756f124609d2710eab4bfba1850ca0c2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/siddarth/Desktop/Projects/Workspace/sudoku_android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="abad830483facdbd0b09d66fa3048ce168394220">
+        <dex dex="/Users/siddarth/Desktop/Projects/Workspace/sudoku_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bc197d05ce1c5ceec74a7ae5b0b03691cd2d06c8/classes.dex" />
+    </item>
+
+</items>
