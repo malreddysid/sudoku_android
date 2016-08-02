@@ -1,3 +1,5 @@
+## Sudoku Solver - Android App
+
 This repo contains an android implementation of the sudoku solver in [sudoku_DL](https://github.com/malreddysid/sudoku_DL).
 
 ## How to Setup
