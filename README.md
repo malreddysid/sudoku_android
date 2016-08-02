@@ -8,7 +8,9 @@ This repo contains an android implementation of the sudoku solver in [sudoku_DL]
 
 ## Screenshots
 
+<!---
 ![1](/static/1.png "1") ![2](/static/2.png "2") ![3](/static/3.png "3")
+-->
 
 <br>
 <center><div class="imgcap">
@@ -21,7 +23,6 @@ This repo contains an android implementation of the sudoku solver in [sudoku_DL]
 <div style="display:inline-block; margin-left: 20px;">
     <img src="/static/3.png" width="150">
 </div>
-<div class="thecap"> Screenshots </div>
 </div></center>
 <br>
 
