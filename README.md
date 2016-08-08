@@ -30,3 +30,9 @@ This repo contains an android implementation of the sudoku solver in [sudoku_DL]
 ## Implementation
 
 You can read more about the implementation in my blog [here](https://malreddysid.github.io/android/2016/08/02/sudoku-solver-android.html).
+
+## TODO
+
+* Improve the puzzle solving algorithm.
+* Imporve the look of the app - Overlay the solution on top of the puzzle similar to Google Word Lens.
+* Improve the grid extraction algorithm.
